@@ -1,7 +1,7 @@
-#FlaskSec
+# FlaskSec
 Demo project for security focused Flask demo application and best practices
 
-### Insatll
+### Install
 ```
 $ pip install -r requirements.txt
 ```
